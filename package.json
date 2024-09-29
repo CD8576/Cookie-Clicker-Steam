@@ -1,0 +1,13 @@
+{
+  "name": "cookie-electron",
+  "version": "1.0.0",
+  "author": "Orteil",
+  "homepage": "https://store.steampowered.com/app/1454400/Cookie_Clicker/",
+  "description": "Cookie Clicker standalone",
+  "main": "start.js",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "steamapi": "^2.1.1"
+  }
+}
