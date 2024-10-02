@@ -1,0 +1,11 @@
+{
+	"Name": "Sample Mod",
+	"ID": "sample mod",
+	"Author": "Orteil",
+	"Description": "A bare-bones sample mod.",
+	"ModVersion": 1,
+	"GameVersion": 2.031,
+	"Date": "13/08/2021",
+	"Dependencies": [],
+	"Disabled": 1
+}

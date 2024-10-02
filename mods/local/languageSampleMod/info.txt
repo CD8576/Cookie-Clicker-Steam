@@ -1,0 +1,12 @@
+{
+	"Name": "Language Sample Mod",
+	"ID": "lang sample mod",
+	"Author": "Orteil",
+	"Description": "A sample mod that demonstrates modding language files. Translates the game from American English to British English.",
+	"ModVersion": 1,
+	"GameVersion": 2.031,
+	"Date": "13/08/2021",
+	"Dependencies": [],
+	"LanguagePacks": ["lang.js"],
+	"Disabled": 1
+}
